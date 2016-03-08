@@ -1,7 +1,9 @@
 ## Central Diesel
 ###### Site de Gerência da oficina
 
-Project Title CentralDiesel
-Purpose of Project Site para a oficina
-Date 08-03-2016
-Authors Ivan Alisson e Gian Lucas
+* PROJECT TITLE: Central Diesel
+* PURPOSE OF PROJECT: Site para a oficina
+* VERSION or DATE: 08-03-2016
+* HOW TO START THIS PROJECT: N/A
+* AUTHORS: Ivan Alisson e Gian Lucas.
+* USER INSTRUCTIONS: Por enquanto nenhuma.
