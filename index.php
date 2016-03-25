@@ -4,24 +4,30 @@
 <?php require_once('Class/head.php'); ?>
 </head>
 <body id="login">
-  <div class="login-logo">
-    <a href="index.php"><img src="images/DSC_04553.png" alt=""/></a>
+  <div >
+    <a href="index.php"><img src="images/DSC_04553.png"/></a>
   </div>
-  <h2 class="form-heading">Login</h2>
-  <div class="app-cam">
-	  <form method="post" action="Class/valida.php">
+  <div>
+  	<h2>Login</h2>
+  </div>
+  <div class="col-md-9">
+	  	<form method="post" action="Class/valida.php">
 		<div class="input-group">
-			<span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
-			<input type="text" name="login" required>
+			<span class="input-group-addon">
+				<i>Login:</i>
+			</span>
+			<input class="bg-success" type="text" name="login" required>
 		</div>
 		<div class="input-group">
-			<span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
-			<input type="password" name="senha" required>
+			<span class="input-group-addon">
+				<i>Senha:</i>
+			</span>
+			<input class="bg-warning" type="password" name="senha" required>
 		</div>
 		<div class="submit">
 			<input type="submit" name="entrar" value="Entrar">
 		</div>
-	</form>
+		</form>
   </div>
 </body>
 </html>
