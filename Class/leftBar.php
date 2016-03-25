@@ -3,7 +3,7 @@
 	<div class="sidebar-nav navbar-collapse">
 		<ul class="nav" id="side-menu">
 			<li>
-				<a href="index.php"><i class="fa fa-bar-chart nav_icon"></i>Principal</a>
+				<a href="principal.php"><i class="fa fa-bar-chart nav_icon"></i>Principal</a>
 			</li>
 			<li>
 				<a href="#"><i class="fa fa-user nav_icon"></i>Clientes<span class="fa arrow"></span></a>
@@ -18,8 +18,9 @@
 					</li>
 				</ul>
 			</li>
+			<!--
 			<li>
-				<a href="#"><i class="fa fa-cog nav_icon"></i>Peças<span class="fa arrow"></span></a>
+				<a href="#"><i class="fa fa-cog nav_icon"></i>Pe&ccedil;as<span class="fa arrow"></span></a>
 				<ul class="nav nav-second-level">
 					<li>
 						<a href="buscaPecas.php">Busca</a>
@@ -31,6 +32,7 @@
 					</li>
 				</ul>
 			</li>
+			-->
 			<li>
 				<a href="#"><i class="fa fa-bus nav_icon"></i>Carros<span class="fa arrow"></span></a>
 				<ul class="nav nav-second-level">
@@ -48,7 +50,7 @@
 				<a href="#"><i class="fa fa-calendar nav_icon"></i>Agendamento<span class="fa arrow"></span></a>
 				<ul class="nav nav-second-level">
 					<li>
-						<a href="#">Calendário</a>
+						<a href="#">Calend&aacute;rio</a>
 					</li>
 				</ul>
 				<ul class="nav nav-second-level">

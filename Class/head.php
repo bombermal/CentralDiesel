@@ -1,6 +1,6 @@
 <title>Central Diesel</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta charset="UTF-8" >
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Bootstrap Core CSS -->
 <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
@@ -19,3 +19,7 @@
 <script src="js/metisMenu.min.js"></script>
 <script src="js/custom.js"></script>
 <script src="js/bootstrap.min.js"></script>
+
+<?php 
+include_once 'link.php';
+//session_start();?>
